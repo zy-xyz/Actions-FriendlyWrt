@@ -115,7 +115,7 @@ jobs:
       if: steps.compile.outcome == 'failure'
       run: |
         cd project/friendlywrt
-        make -j1 V=s
+        make -j3 V=s
 
     - name: Create rootfs package
       id: create_rootfs_package
