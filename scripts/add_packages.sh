@@ -11,6 +11,33 @@ CONFIG_PACKAGE_luci-app-diskman_INCLUDE_btrfs_progs=y
 CONFIG_PACKAGE_luci-app-diskman_INCLUDE_lsblk=y
 CONFIG_PACKAGE_luci-i18n-diskman-zh-cn=y
 CONFIG_PACKAGE_smartmontools=y
+CONFIG_PACKAGE_luci-app-airplay2=y
+CONFIG_PACKAGE_luci-app-openclash=y
+CONFIG_PACKAGE_luci-app-cpufreq=y
+CONFIG_PACKAGE_luci-app-ramfree=y
+CONFIG_PACKAGE_luci-app-tailscale=y
+#CONFIG_PACKAGE_luci-app-cloudflarespeedtest=y
+#CONFIG_PACKAGE_cdnspeedtest=y
+CONFIG_PACKAGE_luci-app-nettask=y
+#CONFIG_PACKAGE_luci-app-adguardhome=y
+#CONFIG_PACKAGE_luci-app-adguardhome_INCLUDE_binary=n
+CONFIG_PACKAGE_luci-app-autoreboot=y
+CONFIG_PACKAGE_luci-app-diskman=y
+CONFIG_PACKAGE_luci-app-dockerman=m
+#CONFIG_PACKAGE_luci-app-easytier=y
+CONFIG_PACKAGE_luci-app-istorex=y
+#CONFIG_PACKAGE_luci-app-lucky=y
+CONFIG_PACKAGE_luci-app-mosdns=y
+CONFIG_PACKAGE_luci-app-oaf=y
+CONFIG_PACKAGE_luci-app-samba4=y
+#CONFIG_PACKAGE_luci-app-smartdns=y
+#CONFIG_PACKAGE_luci-app-sqm=y
+CONFIG_PACKAGE_luci-app-ttyd=y
+CONFIG_PACKAGE_luci-app-upnp=y
+CONFIG_PACKAGE_luci-app-vlmcsd=y
+CONFIG_PACKAGE_luci-app-wol=y
+CONFIG_PACKAGE_luci-app-athena-led=m
+CONFIG_PACKAGE_luci-i18n-athena-led-zh-cn=m
 EOL
 # }}
 
