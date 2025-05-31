@@ -38,6 +38,7 @@ CONFIG_PACKAGE_luci-app-vlmcsd=y
 CONFIG_PACKAGE_luci-app-wol=y
 CONFIG_PACKAGE_luci-app-athena-led=m
 CONFIG_PACKAGE_luci-i18n-athena-led-zh-cn=m
+CONFIG_PACKAGE_zram-swap=y
 EOL
 # }}
 
